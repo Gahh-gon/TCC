@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.Loginground{
+    background: url("assets/IMG/pexels-dapurmelodi-1109197.jpg") no-repeat center center fixed;
+   background-size: cover; /*Css padrão*/
+   -webkit-background-size: cover; /*Css safari e chrome*/
+   -moz-background-size: cover; /*Css firefox*/
+   -ms-background-size: cover; /*Css IE não use mer#^@%#*/
+   -o-background-size: cover; /*Css Opera*/
+ }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

@@ -1,0 +1,54 @@
+.formi{
+    width: 270px;
+    height: 370px;
+    padding: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+ }
+ .are_form{
+ 
+ display: flex;
+ justify-content: center;
+ margin-top: 15%;
+ 
+ }
+ .input{
+    display: flex;
+    text-align: center;
+    margin-top: 20px;
+    width: 220px;
+    height: 30px;
+    background-color: rgb(246, 175, 44);
+    color: black;
+    align-items: center;
+   
+ }
+ 
+ .inputEmail{
+ margin-top: 4em; 
+ }
+ .inputsenha{
+ margin-bottom: 70px;
+ }
+ 
+ 
+ .btn{
+    display: block;
+    margin: auto auto;
+ }
+ 
+ .titulos{
+    
+ text-align: center;
+ color: rgb(0, 0, 0);
+ 
+ }
+    .img_email{
+       position: absolute;
+       top: 45.1%;
+       left: 34%;
+       width: 17px;
+    }
+
+   
+ 
